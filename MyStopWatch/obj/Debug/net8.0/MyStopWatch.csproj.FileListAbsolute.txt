@@ -1,0 +1,14 @@
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.AssemblyInfoInputs.cache
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.AssemblyInfo.cs
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.csproj.CoreCompileInputs.cache
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/bin/Debug/net8.0/MyStopWatch
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/bin/Debug/net8.0/MyStopWatch.deps.json
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/bin/Debug/net8.0/MyStopWatch.runtimeconfig.json
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/bin/Debug/net8.0/MyStopWatch.dll
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/bin/Debug/net8.0/MyStopWatch.pdb
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.dll
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/refint/MyStopWatch.dll
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.pdb
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/MyStopWatch.genruntimeconfig.cache
+/Users/fikerdilnesawkebede/Desktop/Desings/event driven programming/MyStopWatch/obj/Debug/net8.0/ref/MyStopWatch.dll
